@@ -5,4 +5,6 @@ Lime scooters/bikes have made an appearance in St. Paul (and Minneapolis) in 201
 
 This code collects Lime scooter and bike data over a period of time using the API and then analyzes how people are riding in St. Paul. Note that some of the code has been modified for security reasons.
 
-There is a "figures" folder which contains the google maps images that were generated from the code
+Contents:
+- .pynb Jupiter notebook with the code and documentation of the process I used to complete the analysis
+- A "figures" folder which contains the google maps images that were generated from the code.
